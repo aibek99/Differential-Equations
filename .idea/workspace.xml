@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bee2595-b336-4047-a4fd-46c1ca6af9c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputationalPracticum/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/.idea/ComputationalPracticum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Application.html" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/Application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Application.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/Application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Dependencies.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/Dependencies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Euler Method/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/Euler Method/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/EulerMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/EulerMethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/ExactSolution.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/ExactSolution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/Grid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/ImprovedEulerMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/ImprovedEulerMethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/NumericalMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/NumericalMethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/RungeKuttaMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/RungeKuttaMethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/.idea/pythonProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/.idea/pythonProject2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/Application.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/Application.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/Euler Method/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/EulerMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/ExactSolution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComputationalPracticum/Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/Grid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/ImprovedEulerMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/NumericalMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/RungeKuttaMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject2/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25uLNFWdMFVpef8UgzX6NI9CCvH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\mvideo\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bee2595-b336-4047-a4fd-46c1ca6af9c7" name="Changes" comment="" />
+      <created>1646371984158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646371984158</updated>
+      <workItem from="1646371986123" duration="170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1646372019063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
